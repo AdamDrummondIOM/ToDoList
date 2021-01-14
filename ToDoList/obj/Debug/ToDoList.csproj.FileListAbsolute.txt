@@ -1,0 +1,6 @@
+/Users/adam/Desktop/ToDoList/ToDoList/bin/Debug/ToDoList.exe
+/Users/adam/Desktop/ToDoList/ToDoList/bin/Debug/ToDoList.pdb
+/Users/adam/Desktop/ToDoList/ToDoList/obj/Debug/ToDoList.csprojAssemblyReference.cache
+/Users/adam/Desktop/ToDoList/ToDoList/obj/Debug/ToDoList.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/ToDoList/ToDoList/obj/Debug/ToDoList.exe
+/Users/adam/Desktop/ToDoList/ToDoList/obj/Debug/ToDoList.pdb
